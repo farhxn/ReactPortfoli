@@ -26,7 +26,7 @@ const Qualifications = () => {
           <div className={toggleState === 1 ? "qualification__content qualification__content-active" : "qualification__content"}>
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Bachelors of Engineering in Software Engineering </h3>
+                <h3 className="qualification__title">Bachelors of Science in Computer Science </h3>
                 <span className="qualification__subtitle">Muhammad Ali Jinnah University - Karachi</span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i> 2022 - Present
