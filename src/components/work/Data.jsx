@@ -6,7 +6,17 @@ import work3 from "../../assets/work3.PNG";
 import work4 from "../../assets/work4.PNG";
 import work5 from "../../assets/work5.PNG";
 import work6 from "../../assets/work6.png";
+import work9 from "../../assets/work9.jpg";
+
 export const projectsData = [
+  {
+    id: 7,
+    image: work9,
+    title : 'Restaurant Website',
+    disc : 'Project is created on Html CSS',
+    link: 'https://farhanatiffoodwebsite.netlify.app/', 
+    category: 'Web Design' 
+  },
   {
     id: 6,
     image: work6,
