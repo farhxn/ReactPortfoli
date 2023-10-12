@@ -31,18 +31,33 @@ const Backend = () => {
           </div>
           </div>
 
-          <div className="skills__data">
-          <i class='bx bxl-wordpress'></i>
-          <div>
-          <h3 className="skills__name">Wordpress</h3>
-          <span className="skills__level">Basic</span>
-          </div>
-          </div>
 
           <div className="skills__data">
           <i class='bx bxl-python' ></i>
           <div>
           <h3 className="skills__name">Python</h3>
+          <span className="skills__level">Basic</span>
+          </div>
+          </div>
+
+          <div className="skills__data">
+          <i class='bx bxl-django'></i>
+          <div>
+          <h3 className="skills__name">Django</h3>
+          <span className="skills__level">Basic</span>
+          </div>
+          </div>
+          
+          <div className="skills__data">
+          <i class='bx bx-data'></i>          <div>
+          <h3 className="skills__name">R</h3>
+          <span className="skills__level">Basic</span>
+          </div>
+          </div>
+
+          <div className="skills__data">
+          <i class='bx bx-data'></i>          <div>
+          <h3 className="skills__name">Power BI</h3>
           <span className="skills__level">Basic</span>
           </div>
           </div>

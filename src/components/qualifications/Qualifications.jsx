@@ -88,7 +88,7 @@ const Qualifications = () => {
           <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
           <div className="qualification__data">
             <div>
-              <h3 className="qualification__title">PHP Coure Internship</h3>
+              <h3 className="qualification__title">Junior PHP Core Developer</h3>
               <span className="qualification__subtitle">New Tech Era - Karachi</span>
               <div className="qualification__calendar">
                 <i className="uil uil-calendar-alt"></i> 2022 - June
@@ -101,21 +101,52 @@ const Qualifications = () => {
             </div>
           </div>
 
-    {/*      <div className="qualification__data">
+         <div className="qualification__data">
             <div></div>
             <div>
               <span className="qualification__rounder"> </span>
               <span className="qualification__line"></span>
             </div>
             <div>
-              <h3 className="qualification__title">inter</h3>
-              <span className="qualification__subtitle">Karachi - MAJU</span>
+              <h3 className="qualification__title">Junior .Net Developer</h3>
+              <span className="qualification__subtitle">CartzLink - Karachi </span>
               <div className="qualification__calendar">
-                <i className="uil uil-calendar-alt"></i> 2022 - Present
+                <i className="uil uil-calendar-alt"></i>June 2023 - July 2023
               </div>
             </div>
           </div>
-    */}
+
+          <div className="qualification__data">
+            <div>
+              <h3 className="qualification__title">Flutter Developer</h3>
+              <span className="qualification__subtitle">Uniconsols - Karachi</span>
+              <div className="qualification__calendar">
+                <i className="uil uil-calendar-alt"></i> 2023 - Present
+              </div>
+            </div>
+
+            <div>
+              <span className="qualification__rounder"> </span>
+              <span className="qualification__line"></span>
+            </div>
+          </div>
+
+
+         <div className="qualification__data">
+            <div></div>
+            <div>
+              <span className="qualification__rounder"> </span>
+              <span className="qualification__line"></span>
+            </div>
+            <div>
+              <h3 className="qualification__title">Freelancing</h3>
+              <span className="qualification__subtitle">Freelancing </span>
+              <div className="qualification__calendar">
+                <i className="uil uil-calendar-alt"></i> 2023 - Present
+              </div>
+            </div>
+          </div>
+   
 
         </div>
         </div>

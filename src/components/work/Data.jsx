@@ -7,10 +7,22 @@ import work4 from "../../assets/work4.PNG";
 import work5 from "../../assets/work5.PNG";
 import work6 from "../../assets/work6.png";
 import work9 from "../../assets/work9.jpg";
+import work11 from "../../assets/astrology.jpeg";
+import work12 from "../../assets/bspace.jpeg";
+import work13 from "../../assets/job.png";
+import work14 from "../../assets/plsnt.jpeg";
+import work15 from "../../assets/pos.webp";
 
 export const projectsData = [
   {
-    id: 7,
+    id: 10,
+    image: work15,
+    title : 'Point Of Sale (POS)',
+//    link: 'https://farhan-portfolioo.netlify.app',
+    category: 'Web Application'
+  },
+  {
+    id: 9,
     image: work9,
     title : 'Restaurant Website',
     disc : 'Project is created on Html CSS',
@@ -64,6 +76,13 @@ export const projectsData = [
     link: 'https://farhan-portfolioo.netlify.app',
     category: 'Web Design' 
   },
+    {
+    id: 6,
+    image: work13,
+    title : 'Job Portal',
+//    link: 'https://farhan-portfolioo.netlify.app',
+    category: 'Web Application'
+  },
   {
     id: 7,
     image: work7,
@@ -80,6 +99,28 @@ export const projectsData = [
     // link: '#', 
     category: 'App' 
   },
+  {
+    id:12,
+    image: work12,
+    title : 'Event Organizing Application',
+   link: 'https://www.mediafire.com/file/v1aqcb2z7y3z96p/base.apk/file',
+    category: 'App'
+  },
+    {
+    id:13,
+    image: work14,
+    title : 'E commerce Application',
+   link: 'https://www.mediafire.com/file/v1aqcb2z7y3z96p/base.apk/file',
+    category: 'App'
+  }, 
+     {
+    id:13,
+    image: work11,
+    title : 'Astrologist Application',
+   link: 'https://www.mediafire.com/file/v1aqcb2z7y3z96p/base.apk/file',
+    category: 'App'
+  },
+
 ];
 
 export const projectsNav = [
